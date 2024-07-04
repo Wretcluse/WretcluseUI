@@ -1,0 +1,18 @@
+## Interface: 100105
+## Title: WretcluseUI
+## Notes: A collection of personally preferred improvements for the default Blizzard UI. 
+## Version: 0.0.0
+## Author: Wretcluse
+## IconTexture: Interface\AddOns\WretcluseUI\WretcluseUI
+
+modules\bars\actionbars.lua
+modules\bars\buffs.lua
+modules\bars\castbar.lua
+modules\chat\chat.lua
+modules\maps\coordinates.lua
+modules\misc\emotes.lua
+modules\misc\threatmacro.lua
+modules\misc\misc.lua
+modules\skin\bigwigs.lua
+modules\unit\hide.lua
+modules\unit\unitframes.lua
