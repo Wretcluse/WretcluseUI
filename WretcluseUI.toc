@@ -14,8 +14,8 @@ modules\keypress.lua
 modules\misc.lua
 modules\nameplates.lua
 modules\pin.lua
+modules\questlog.lua
 modules\quotes.lua
 modules\threatmacro.lua
 modules\trinketbar.lua
 modules\unitframes.lua
-modules\questlog.lua
