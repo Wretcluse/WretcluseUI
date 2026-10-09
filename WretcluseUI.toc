@@ -1,0 +1,21 @@
+
+## Interface: 120000, 120001
+## Title: WretcluseUI
+## Notes: Personal UI module pack
+## Author: Wretcluse
+## Version: 0.1
+
+core.lua
+
+modules\calendar.lua
+modules\castbar.lua
+modules\essentialcooldowns.lua
+modules\keypress.lua
+modules\misc.lua
+modules\nameplates.lua
+modules\pin.lua
+modules\quotes.lua
+modules\threatmacro.lua
+modules\trinketbar.lua
+modules\unitframes.lua
+modules\questlog.lua
