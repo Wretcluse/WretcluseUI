@@ -3,7 +3,7 @@
 ## Title: WretcluseUI
 ## Notes: Personal UI module pack
 ## Author: Wretcluse
-## Version: 0.1
+## Version: 120100
 
 core.lua
 
