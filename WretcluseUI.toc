@@ -1,5 +1,5 @@
 
-## Interface: 120000, 120001
+## Interface: 120100
 ## Title: WretcluseUI
 ## Notes: Personal UI module pack
 ## Author: Wretcluse
